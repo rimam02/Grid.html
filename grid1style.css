@@ -1,0 +1,14 @@
+.container {
+    display: grid;
+    background-color: #f2f2f2;
+    padding: 10px;
+}
+
+.box {
+    background-color: rgb(218, 174, 41);
+    color: rgb(27, 26, 26);
+    padding: 20px;
+    margin: 5px;
+    text-align: left;
+    font-weight: bold;
+}

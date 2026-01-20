@@ -1,0 +1,19 @@
+.container-px {
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+.container-fr {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+}
+
+.box {
+    background-color: rgb(18, 95, 195);
+    color: white;
+    padding: 20px;
+    text-align: centre;
+    font-weight: bold;
+}
